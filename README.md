@@ -33,6 +33,10 @@ go run onactive.go
 3. 如需退出程序，使用Ctrl+C
 ![image](https://github.com/user-attachments/assets/1cec13ce-1866-4858-b4ef-cd5f8e9a5cb5)
 
+### 使用脚本的理由
+无需在web端缓慢交互，无需为验证码烦恼，快人一步
+![image](https://github.com/user-attachments/assets/1d58c112-cf4a-4355-be57-b2992ef30697)
+
 ## 编译方法
 如果您想将程序编译成可执行文件，可以使用以下命令：
 
